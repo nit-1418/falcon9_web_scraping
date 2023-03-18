@@ -1,0 +1,22 @@
+Report on Dataset scraped Falcon 9 and Falcon Heavy Launches Records from Wikipedia.
+
+The dataset contains information of falcon launch records and it's used purposed. 
+The data was scraped from the Wikipedia website and contains information such as 'Flight No.', 'Launch site', 'Payload',
+'Payload mass', 'Orbit','Customer', 'Launch outcome', 'Date', 'Time'.
+
+Exploratory Data Analysis:
+
+Data Cleaning: The dataset had few missing values and was mostly unpolluted.
+To fill up the vacant space, though, some data cleansing was necessary.
+
+Summary Statistics: CCAFS has the highest launch rate with 75 times. The largest falcon 9 customer is NASA,
+with SpaceX coming in second. The Falcon 9 has a maximum time and can carry a payload of more than 15,000 kg into space.
+Starlink's payload has been used more than 25 times, followed by GPS II.The duration of the falcon's mission is optimal for LEO and GTO orbits.
+
+
+Visualization: Visualizations such as bar, pie,area, and line charts were used to 
+visualize the data and identify patterns.
+
+Conclusion: We can learn useful details about the number of launches and the clients from the dataset of Falcon 9 launch records from Wikipedia.
+The dataset gives us vital details regarding the launch sites used for each cargo and orbit. It gives us information about the mass of the payload 
+that Falcon 9 can carry as well as the kind of space mission that Falcon 9 does.
